@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-Hi, I'm Soham Dixit, a Computer Engineering student 💻 from India, currently, I'm a Co-founder and Ex-admin of 🎮 [@Elite War League](https://elitewarleague.weebly.com/), Social Media Marketing Intern 👨‍💼 [@Edvizo](https://www.edvizo.com/) and a Member of 🏢 [@Computer Society of India](http://www.csi-india.org/). Beside's coding, I enjoy playing games and listening to podcasts 🎧.
+Hi, I'm Soham Dixit, a Computer Engineering student 💻 from India, currently, I'm a Co-founder of 🎮 [@Elite War League](https://elitewarleague.weebly.com/), Social Media Marketing Intern 👨‍💼 [@Edvizo](https://www.edvizo.com/) and a Member of 🏢 [@Computer Society of India](http://www.csi-india.org/). Beside's coding, I enjoy playing games and listening to podcasts 🎧.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" />
   
