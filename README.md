@@ -14,13 +14,13 @@
 <br/>
 <br/>
 
-Hi, I'm Soham Dixit, a Computer Engineering student 💻 from India, currently, I'm a Co-founder of 🎮 [@Elite War League](https://elitewarleague.weebly.com/), Social Media Marketing Intern 👨‍💼 [@Edvizo](https://www.edvizo.com/) and a Member of 🏢 [@Computer Society of India](http://www.csi-india.org/). Beside's coding, I enjoy playing games and listening to podcasts 🎧.
+Hi, I'm Soham Dixit, a Computer Engineering student 💻 from India, currently, I'm a Co-founder of 🎮 [@Threshold Gaming](https://www.linkedin.com/company/threshold-gaming/?viewAsMember=true), Social Media Marketing Intern 👨‍💼 [@Edvizo](https://www.edvizo.com/) and a Member of 🏢 [@Computer Society of India](http://www.csi-india.org/). Beside's coding, I enjoy playing games and listening to podcasts 🎧.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Secret Project!](https://media.istockphoto.com/vectors/top-secret-sign-vector-id1156254399?k=6&m=1156254399&s=170667a&w=0&h=nuoEVqsugDhPB3ojCnVpeEWcObmyySJMlC6kdkF86UI=);
+- 👨🏽‍💻 I’m currently working on [Threshold Gaming's Website](https://images.squarespace-cdn.com/content/v1/55ca787ae4b07d9498906d9e/1551490529737-C7C2LZQ8MSFLT8L632H4/ke17ZwdGBToddI8pDm48kPHgPSpJs3pqpkUZU93_mvpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PInndiFr6ALsCf3uCDBRk4eJzsF3rQ925VZ6DZqxvBZkQKMshLAGzx4R3EDFOm1kBS/coming-soon-neon-sign-coming-soon-badge-in-vector-21133321.jpg);
 - 🌱 I’m currently learning C++;
 <!-- - 🙌 I’m looking to collaborate on nothing as of now;
 - 🤔 I’m looking for help with Data Structures and Algorithms 🤝; -->
