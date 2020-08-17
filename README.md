@@ -16,7 +16,7 @@
 
 Hi, I'm Soham Dixit, a Computer Engineering student 💻 from India, currently, I'm a Co-founder of 🎮 [@Threshold Gaming](https://www.linkedin.com/company/threshold-gaming/?viewAsMember=true), Social Media Marketing Intern 👨‍💼 [@Edvizo](https://www.edvizo.com/) and a Member of 🏢 [@Computer Society of India](http://www.csi-india.org/). Beside's coding, I enjoy playing games and listening to podcasts 🎧.
 
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/SWiFPEzKo12sSKCSS7/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/RNPHjtUx46GU3VLARl/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
