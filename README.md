@@ -3,10 +3,10 @@
 ### A Computer Engineering student 💻 from India. A web developer🚀 and newbie in competitive programming🏆. Beside's coding, I enjoy playing games and listening to podcasts 🎧.
 ## Talking about some stuffs:
 
-- 👨🏽‍💻 I’m currently working on my Web Dev skills;
-- 🌱 I’m currently learning C++;
-- 🙌 I’m looking to collaborate on Competitive Programming;
-- 🤔 I’m looking for help with Data Structures and Algorithms 🤝;
+- 👨🏽‍💻 I’m currently working on my **Web Dev skills**;
+- 🌱 I’m currently learning **C++**;
+- 🙌 I’m looking to collaborate on **Competitive Programming**;
+- 🤔 I’m looking for help with Data **Structures and Algorithms**;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm an Aviation enthusiastic too! ✈️;
 - 📫 How to reach me: sohamddixit@gmail.com;
