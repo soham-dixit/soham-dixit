@@ -1,6 +1,6 @@
 ## Hey there👋, I'm [Soham Dixit!](https://sohamdixit.netlify.app/)
 
-## A Computer Engineering student 💻 from India. A web developer🚀 and newbie in competitive programming🏆. Beside's coding, I enjoy playing games and listening to podcasts 🎧.
+### A Computer Engineering student 💻 from India. A web developer🚀 and newbie in competitive programming🏆. Beside's coding, I enjoy playing games and listening to podcasts 🎧.
 ## Talking about some stuffs:
 
 - 👨🏽‍💻 I’m currently working on my **Web Dev skills**;
