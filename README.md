@@ -17,7 +17,7 @@
 
 ## 📱 Social Media
 
-<a href="https://www.linkedin.com/in/soham-dixit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/soham-dixit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/sohamdixit07"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <br>
 Email Id: [sohamddixit@gmail.com](mailto:sohamddixit@gmail.com)
 <br>
