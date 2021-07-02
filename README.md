@@ -34,8 +34,8 @@
 
 ## 📱 Connect with me
 
-<a href="https://www.linkedin.com/in/soham-dixit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/iSohamDixit"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<br>
-Email Id: [sohamddixit@gmail.com](mailto:sohamddixit@gmail.com)
-<br>
-Website: [Portfolio](https://sohamdixit.netlify.app/)
+<p align="center">
+<a href="https://sohamdixit.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-sohamdixit.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/soham-dixit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Soham%20Dixit-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:sohamddixit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sohamddixit@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
