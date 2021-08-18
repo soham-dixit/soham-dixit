@@ -1,4 +1,4 @@
-## Hey there👋, I'm [Soham Dixit!](https://sohamdixit.netlify.app/)
+## Hey there👋, I'm [Soham Dixit!](https://soham-dixit.github.io)
 
 #### A Computer Engineering student 💻 from India. A web developer🚀 and newbie in competitive programming🏆. Beside's coding, I enjoy playing games and listening to podcasts 🎧.
 
@@ -35,7 +35,7 @@
 ## 📱 Connect with me
 
 <p align="center">
-<a href="https://sohamdixit.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-sohamdixit.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://soham-dixit.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-soham-dixit.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/soham-dixit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Soham%20Dixit-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sohamddixit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sohamddixit@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
