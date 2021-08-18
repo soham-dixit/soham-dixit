@@ -35,7 +35,7 @@
 ## 📱 Connect with me
 
 <p align="center">
-<a href="https://soham-dixit.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-soham-dixit.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://soham-dixit.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-Soham Dixit-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/soham-dixit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Soham%20Dixit-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sohamddixit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sohamddixit@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
