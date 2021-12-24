@@ -39,4 +39,6 @@
 <a href="https://www.linkedin.com/in/soham-dixit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Soham%20Dixit-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sohamddixit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sohamddixit@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://twitter.com/iSohamDixit"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@iSohamDixit-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.buymeacoffee.com/sohamdixit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 190x !important;" ></a>
 </p>
+
