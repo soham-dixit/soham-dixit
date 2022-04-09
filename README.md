@@ -4,8 +4,8 @@
 
 ## ✨ Talking about some stuffs:
 
-- 👨🏽‍💻 I’m currently working on my **Web Dev & CP Skills**;
-- 🌱 I’m currently learning **Java**;
+- 👨🏽‍💻 I’m currently working on my **Dev & CP Skills**;
+- 🌱 I’m currently learning **Android App Dev**;
 - 🙌 I’m looking to collaborate on **Competitive Programming**;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm an Aviation enthusiastic too! ✈️;
