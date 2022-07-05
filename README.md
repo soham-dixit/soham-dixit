@@ -2,7 +2,6 @@
 
 #### A Computer Engineering student 💻 from India. A Web Developer and newbie in Android Dev🚀
 
-
 ## 👨‍💻 Tech Stack
 
 - 💻 &nbsp;
