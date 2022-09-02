@@ -1,6 +1,6 @@
 ## Hey there👋, I'm [Soham Dixit!](https://soham-dixit.github.io)
 
-#### A Computer Engineering student 💻 from India. A Web Developer and newbie in Android Dev🚀
+#### A Computer Engineering student 💻 from India | Smart India Hackthon 2022 - Software Edition Winner🏆 | Fullstack Developer🚀
 
 ## 👨‍💻 Tech Stack
 
