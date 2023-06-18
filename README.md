@@ -1,7 +1,7 @@
 <!-- ## Hey there👋, I'm [Soham Dixit!](https://soham-dixit.github.io) -->
 ## Hey there👋, I'm Soham Dixit!
 
-#### An Engineering Undergrad student 💻 from India | Smart India Hackthon 2022 Winner🏆 | Fullstack Developer🚀
+#### An Engineering Undergrad student 💻 from India | Smart India Hackthon 2022 Winner🏆 | Singapore-India Hackathon 2023 Finalist | Flutter Developer
 
 ## 👨‍💻 Tech Stack
 
