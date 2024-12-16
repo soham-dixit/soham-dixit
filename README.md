@@ -1,7 +1,7 @@
 <!-- ## Hey there👋, I'm [Soham Dixit!](https://soham-dixit.github.io) -->
 ## Hey there👋, I'm Soham Dixit!
 
-#### 2 x Smart India Hackathon Winner'23 & 22 🏆 | Singapore-India Hackathon 2023 Finalist 🇮🇳 | ETHIndia 2023 🎖️| Flutter Developer
+#### 3 x Smart India Hackathon Winner 🏆 | Singapore-India Hackathon 2023 Finalist 🇮🇳 | ETHIndia 2023 🎖️| Fullstack Developer
 
 ## 👨‍💻 Tech Stack
 
